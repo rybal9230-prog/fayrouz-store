@@ -34,7 +34,7 @@ PRODUCTS = [
     },
     {
         "id": 3,
-        "name": "مباخر خشب جوز طبيعي فخمة",
+        "name": "بوكس موزايك سادة وشعار السطنة",
         "price": 18.00,
         "category": "",
         "featured": False,
@@ -43,7 +43,7 @@ PRODUCTS = [
     },
     {
         "id": 4,
-        "name": "بوكس شعار خشب طبيعي",
+        "name": "مباخر خشب طبيعي",
         "price": 60.00,
         "category": "حقائب",
         "featured": True,
