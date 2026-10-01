@@ -34,7 +34,7 @@ PRODUCTS = [
     },
     {
         "id": 3,
-        "name": "بوكس موزايك سادة وشعار السطنة",
+    "name": "بوكس موزاييك سادة وشعار السلطنة",
         "price": 18.00,
         "category": "",
         "featured": False,
@@ -44,6 +44,7 @@ PRODUCTS = [
     {
         "id": 4,
         "name": "مباخر خشب طبيعي",
+
         "price": 60.00,
         "category": "حقائب",
         "featured": True,
